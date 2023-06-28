@@ -8,13 +8,11 @@ Gem::Specification.new do |spec|
   spec.authors = ["qsona"]
   spec.email = ["mori.jmk@gmail.com"]
 
-  spec.summary = "TBD: Write a short summary, because RubyGems requires one."
-  spec.description = "TBD: Write a longer description or delete this line."
+  spec.summary = "Library for stubbing graphql request"
+  spec.description = "Library for stubbing graphql request (from ruby to other services), wrapper of webmock"
   spec.homepage = "https://github.com/qsona/webmock-graphql"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
-
-  spec.metadata["allowed_push_host"] = "TBD: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
