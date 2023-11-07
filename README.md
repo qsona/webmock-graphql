@@ -1,18 +1,24 @@
 # Webmock::Graphql
 
-## Installation
+Library for stubbing graphql request (from ruby to other services), wrapper of webmock
 
-Install the gem and add to the application's Gemfile by executing:
+## Getting Started
+
+### Prerequisites
+
+Ruby 3.1+
+
+### Installation
 
     $ bundle add webmock-graphql
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+or
 
     $ gem install webmock-graphql
 
-## Usage
+### Usage
 
-TODO: Write usage instructions here
+TODO
 
 ## Development
 
